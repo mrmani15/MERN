@@ -1,0 +1,36 @@
+.primary {
+	background-color: #f26584;
+}
+.primary-color {
+	color: #f26584;
+}
+.round {
+	border-radius: 10px;
+}
+.nav-header {
+	height: 50px;
+	padding-top: 10px;
+}
+.card-img {
+	width: 70px;
+	height: 70px;
+	border: 1px solid lightgrey;
+	border-radius: 50%;
+}
+
+.card-size {
+  width: 600px;
+  padding: 10px;
+}
+.left-side{
+  margin-left:  80px;
+}
+.timing{
+  color: lightslategrey;
+}
+.card-img-big {
+	width: 120px;
+	height: 120px;
+	border: 1px solid lightgrey;
+	border-radius: 50%;
+}
